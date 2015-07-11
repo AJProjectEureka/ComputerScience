@@ -1,4 +1,5 @@
 # ComputerScience
+Computer science is the scientific and practical approach to computation and its applications.
 Please refer to The Treasure Trove repo below and read the guidelines before accessing this database
 
 <H1> Introduction: </H1>
